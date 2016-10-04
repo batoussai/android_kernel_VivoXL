@@ -1,7 +1,7 @@
 # android_kernel_VivoXL
 
 Blu Vivo XL kernel pretty much as provided by Blu,
-I fixed the compilation errors and uploaded it. The same Kernel should be useful for development for the Gionee Elife S Plus and possibly phones that are basically rebrandings of the same (AFAIK unknown) chinese OEM.(Cherry Mobile and Star frequently share OEM with Blu and Gionee, might be worth checking)
+I fixed the compilation errors and uploaded it. The same Kernel should be useful for development for the Gionee Elife S Plus and possibly other phones that are rebrandings of the same (AFAIK unknown) chinese OEM.(Cherry Mobile and Star frequently share OEM with Blu and Gionee, might be worth checking)
 
 Not sure about the dependencies you need since I built it in a machine I've been developing for a while, just follow any kernel compilation guide on XDA and you should get what you need.
 
